@@ -1,2 +1,25 @@
-# Sign-Language-Recognition-Using-Computer-Vision
-Hand gestures serve as a key way to communicate with people having hearing and vocal disabilities. Hand gesture recognition, therefore, plays an important role in making these people’s lives easier. Sign Language Recognition which is a subfield of Hand gesture Recognition, helps us achieve this. Our aim is to propose a model that is intuitive and simple. We are proposing a sign language recognition model, which uses deep learning to translate sign language gestures to text and also compares the built model with other CNN models. For this, we would use American sign language from which we represent and understand the gestures.
+
+# Sign Language Recognition Using Deep Learning
+
+
+Hand gesture recognition is crucial for facilitating communication with individuals who have hearing and vocal disabilities. Sign Language Recognition is a subfield of Hand gesture Recognition that helps in achieving this goal. Our objective is to propose a simple and intuitive model for Sign Language Recognition using deep learning techniques to translate American Sign Language gestures into text. We attained a 96% validation accuracy through the use of techniques such as data collection, pre-processing, segmentation, feature extraction, and classification. Additionally, we compared our CNN model to others.
+## Tech Stack
+
+Jupyter Notebook
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/JeromeGeek/Sign-Language-Recognition-Using-Deep-Learning/main/sample_screenshot1.png)
+![App Screenshot](https://raw.githubusercontent.com/JeromeGeek/Sign-Language-Recognition-Using-Deep-Learning/main/sample_screenshot2.png)
+
+
+## Run on Jupyter Notebook
+
+Clone the project
+
+```bash
+$  gh repo clone JeromeGeek/Sign-Language-Recognition-Using-Deep-Learning
+```
+
+Now open it on Jupyter Notebook and run 
+
